@@ -48,7 +48,7 @@
 /* Fonts */
 /* You can use any installed font on your device. */
   --dplus-font-ui: 'Poppins';
-  --dplus-font-body: 'Montserrat';
+  --dplus-font-body: 'Open Sans';
   --dplus-font-header: 'Poppins';
 
 /* Round corner sizes, measured in pixel radius.
@@ -59,10 +59,10 @@ Set avatar/server radius to 50% to make them circular.
   --dplus-radius-server: 20%;
 
 /* This decides how much breathing room there should be between things like buttons and content. */
-  --dplus-spacing-ui: 8px;
+  --dplus-spacing-ui: 6px;
 
 /* This sets how much space there should be between the app contents and the edges of the window. It also affects the distance between major UI elements, such as the server list to the channel list and channel list to the chat. */
-   --dplus-spacing-app: 16px;
+   --dplus-spacing-app: 10px;
 
 /* Size of user and server icons */
 --dplus-icon-avatar-chat: 32px;
